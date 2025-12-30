@@ -1,0 +1,93 @@
+{
+  "event": [
+    "GO",
+    "STAY",
+    "BUY",
+    "WORK",
+    "MEET",
+    "EAT",
+    "LEARN"
+  ],
+  "intent": [
+    "NONE",
+    "PLAN",
+    "WANT",
+    "DECIDE"
+  ],
+  "time": [
+    "NONE",
+    "TODAY",
+    "TOMORROW",
+    "YESTERDAY",
+    "NOW"
+  ],
+  "condition": [
+    "NONE",
+    "IF_RAIN",
+    "IF_SUNNY",
+    "IF_COLD",
+    "IF_HOT",
+    "IF_WINDY",
+    "IF_LATE",
+    "IF_EARLY",
+    "IF_WEEKEND",
+    "IF_NIGHT",
+    "IF_MORNING",
+    "IF_SICK",
+    "IF_TIRED",
+    "IF_HUNGRY",
+    "IF_THIRSTY",
+    "IF_FULL",
+    "IF_BUSY",
+    "IF_FREE",
+    "IF_HOLIDAY",
+    "IF_WORKING",
+    "IF_BORED",
+    "IF_HAPPY",
+    "IF_SAD",
+    "IF_STRESSED",
+    "IF_ANGRY",
+    "IF_ALONE",
+    "IF_WITH_FRIENDS",
+    "IF_WITH_FAMILY",
+    "IF_FINISH_WORK",
+    "IF_FINISH_SCHOOL",
+    "IF_FINISH_EATING",
+    "IF_WATCH_MOVIE",
+    "IF_LISTEN_MUSIC",
+    "IF_HAVE_MONEY",
+    "IF_NO_MONEY"
+  ],
+  "agent": [
+    "ME",
+    "YOU",
+    "HE",
+    "SHE",
+    "THEY"
+  ],
+  "object": [
+    "NONE",
+    "FOOD",
+    "BOOK",
+    "MEDICINE",
+    "THING"
+  ],
+  "location": [
+    "NONE",
+    "HOME",
+    "SCHOOL",
+    "HOSPITAL",
+    "OFFICE",
+    "STORE"
+  ],
+  "purpose": [
+    "NONE",
+    "REST"
+  ],
+  "modifier": [
+    "NONE",
+    "FAST",
+    "SLOW",
+    "ALONE"
+  ]
+}

@@ -117,7 +117,7 @@ csf-sign-language/
 │   ├── config.json             # Model configuration
 │   └── labels.json             # Slot label mappings
 ├── training/
-│   └── CSF_Browser_v4_Training.ipynb  # Training notebook
+│   └── CSF_Browser_Training.ipynb  # Training notebook
 ├── infer.py                    # Inference script
 ├── demo_browser.html           # Browser demo (ONNX.js)
 ├── requirements.txt            # Dependencies

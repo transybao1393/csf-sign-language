@@ -1,6 +1,6 @@
 # CSF: Contrastive Semantic Features for Direct Multilingual Sign Language Generation
 
-[![arXiv](https://img.shields.io/badge/arXiv-2501.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2501.XXXXX)
+[![arXiv](https://img.shields.io/badge/arXiv-2501.XXXXX-b31b1b.svg)](https://arxiv.org/abs/2601.01964)
 ![Model Size](https://img.shields.io/badge/Model-0.74MB-blue)
 ![CPU Latency](https://img.shields.io/badge/CPU-3.02ms-orange)
 ![Accuracy](https://img.shields.io/badge/Accuracy-99.03%25-green)
@@ -307,5 +307,5 @@ Email: transybao93@gmail.com
 
 ---
 
-*Code corresponding to [arXiv:2501.XXXXX](https://arxiv.org/abs/2501.XXXXX)*  
+*Code corresponding to [arXiv:2601.01964](https://arxiv.org/abs/2601.01964)*  
 *Released December 2025*

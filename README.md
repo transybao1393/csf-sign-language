@@ -263,7 +263,7 @@ python infer.py "Your text here"
 @article{tran2025csf,
   title={CSF: Contrastive Semantic Features for Direct Multilingual Sign Language Generation},
   author={Tran, Sy Bao},
-  journal={arXiv preprint arXiv:2501.XXXXX},
+  journal={arXiv preprint arXiv:2601.01964},
   year={2025}
 }
 ```

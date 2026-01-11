@@ -260,11 +260,11 @@ python infer.py "Your text here"
 ## 📈 Citation
 
 ```bibtex
-@article{tran2025csf,
+@article{tran2026csf,
   title={CSF: Contrastive Semantic Features for Direct Multilingual Sign Language Generation},
   author={Tran, Sy Bao},
   journal={arXiv preprint arXiv:2601.01964},
-  year={2025}
+  year={2026}
 }
 ```
 
@@ -308,4 +308,4 @@ Email: transybao93@gmail.com
 ---
 
 *Code corresponding to [arXiv:2601.01964](https://arxiv.org/abs/2601.01964)*  
-*Released December 2025*
+*Released January 2026*
